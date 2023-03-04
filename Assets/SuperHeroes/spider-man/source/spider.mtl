@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material__335
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump spiderman.norm.png
+map_Kd spiderman.dff.png
+
+// Add as a new property.
+[HDR]
+_AmbientColor("Ambient Color", Color) = (0.4,0.4,0.4,1)
+
+…
+
+// Matching variable, add above the fragment shader.
+float4 _AmbientColor;
+
+…
+
+return _Color * sample * (_AmbientColor + lightIntensity);

@@ -1,0 +1,87 @@
+newmtl Model001_Material001
+map_Kd batman_bm3_v2_leather_1_d.png
+map_bump batman_bm3_v2_leather_1_n.png
+
+newmtl Model001_Material002
+map_Kd batman_bm3_v2_leather_1_d.png
+map_bump batman_bm3_v2_leather_1_n.png
+
+newmtl Model001_Material003
+map_Kd batman_bm3_v2_nanosuit_d.png
+map_bump batman_bm3_v2_nanosuit_n.png
+
+newmtl Model001_Material004
+map_Kd batman_bm3_v2_lacquered_underlayer_d.png
+map_bump batman_bm3_v2_lacquered_underlayer_n.png
+
+newmtl Model001_Material005
+map_Kd batman_bm3_v2_lacquered_underlayer_d.png
+map_bump batman_bm3_v2_lacquered_underlayer_n.png
+
+newmtl Model001_Material006
+map_Kd batman_bm3_v2_rubber_d.png
+map_bump batman_bm3_v2_rubber_n.png
+
+newmtl Model001_Material007
+map_Kd batman_bm3_v2_rubber_d.png
+map_bump batman_bm3_v2_rubber_n.png
+
+newmtl Model001_Material008
+map_Kd batman_bm3_v2_metal_1_d.png
+map_bump batman_bm3_v2_metal_1_n.png
+
+newmtl Model001_Material009
+map_Kd batman_bm3_v2_hardleather_d.png
+map_bump batman_bm3_v2_hardleather_n.png
+
+newmtl Model001_Material010
+map_Kd batman_bm3_v2_belt_d.png
+map_bump batman_bm3_v2_belt_n.png
+
+newmtl Model001_Material011
+map_Kd batman_bm3_v2_gloves_d.png
+map_bump batman_bm3_v2_gloves_n.png
+
+newmtl Model001_Material012
+map_Kd batman_bm3_v2_metal_2_d.png
+map_bump batman_bm3_v2_metal_2_n.png
+
+newmtl Model001_Material013
+map_Kd batman_bm3_v2_metal_2_d.png
+map_bump batman_bm3_v2_metal_2_n.png
+
+newmtl Model001_Material014
+map_Kd batman_bm3_v2_leather_2_d.png
+map_bump batman_bm3_v2_leather_2_n.png
+
+newmtl Model001_Material015
+map_Kd batman_bm3_v2_cape_d.png
+map_bump batman_bm3_v2_cape_n.png
+
+newmtl Model001_Material016
+map_Kd batman_bm3_v2_cape_d.png
+map_bump batman_bm3_v2_cape_n.png
+
+newmtl Model001_Material017
+map_Kd batman_bm3_v2_nanosuit_d.png
+map_bump batman_bm3_v2_nanosuit_n.png
+
+newmtl Model001_Material018
+map_Kd batman_bm3_v2_cowl_d.png
+map_bump batman_bm3_v2_cowl_n.png
+
+newmtl Model001_Material019
+map_Kd batman_bm3_v2_head_d.png
+map_bump batman_bm3_v2_head_n.png
+
+newmtl Model001_Material020
+map_Kd batman_bm3_v2_wetline_d.png
+
+newmtl Model001_Material021
+map_Kd batman_bm3_v2_teeth_d.png
+map_bump batman_bm3_v2_teeth_n.png
+
+newmtl Model001_Material022
+map_Kd batman_bm3_v2_eye_high_d.png
+map_bump batman_bm3_v2_eye_high_n.png
+
